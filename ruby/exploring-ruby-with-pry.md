@@ -64,8 +64,8 @@ We can now test some basics:
 [1] pry(main)*     "ꙮ Welcome ꙮ Explorer ꙮ"
 [1] pry(main)*   end
 [1] pry(main)* end
-=> :hello
-[2] pry(main)> PryingOpen.my_thid_eye
+=> :my_third_eye
+[2] pry(main)> PryingOpen.my_third_eye
 => "ꙮ Welcome ꙮ Explorer ꙮ"
 [3] pry(main)>
 ```
